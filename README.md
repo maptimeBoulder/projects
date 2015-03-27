@@ -10,3 +10,8 @@ GDAL, OGR, postGIS
 MacPorts  
 geocaching  
 More OSM  
+
+Data links:  
+Address points  
+buildings with elevations and heights  
+points for latino project  
