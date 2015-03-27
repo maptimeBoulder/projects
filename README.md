@@ -1,5 +1,6 @@
 # projects
 Page for keeping project progress and ideas
+We have project night once a month (every other meetup, which are bi-weekly)
 
 Some ideas for future meetups:  
 D3 using geoJSON with leaflet plugin or 3d views  
